@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shane/mlops-zoomcamp/cohorts/2023/02-experiment-tracking/homework/mlruns/0/840024a1579c4d7c8c14bb25c24f004d/artifacts
+end_time: 1685360597656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 840024a1579c4d7c8c14bb25c24f004d
+run_name: debonair-zebra-310
+run_uuid: 840024a1579c4d7c8c14bb25c24f004d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685360586096
+status: 3
+tags: []
+user_id: shane

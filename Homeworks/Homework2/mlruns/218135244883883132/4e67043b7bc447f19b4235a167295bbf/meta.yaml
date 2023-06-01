@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shane/datatalks-mlops-zoomcamp/Homeworks/Homework2/mlruns/218135244883883132/4e67043b7bc447f19b4235a167295bbf/artifacts
+end_time: 1685644710728
+entry_point_name: ''
+experiment_id: '218135244883883132'
+lifecycle_stage: active
+run_id: 4e67043b7bc447f19b4235a167295bbf
+run_name: treasured-snake-644
+run_uuid: 4e67043b7bc447f19b4235a167295bbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685644699572
+status: 3
+tags: []
+user_id: shane

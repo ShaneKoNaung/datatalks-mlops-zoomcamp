@@ -1,0 +1,6 @@
+artifact_location: file:///home/shane/datatalks-mlops-zoomcamp/Homeworks/Homework2/mlruns/218135244883883132
+creation_time: 1685644699401
+experiment_id: '218135244883883132'
+last_update_time: 1685644699401
+lifecycle_stage: active
+name: random-forest-regressor

@@ -54,7 +54,6 @@ def run_optimization(data_path: str, num_trials: int):
             rmse = mean_squared_error(y_val, y_pred, squared=False)
 
             mlflow.log_metric("rmse", rmse)
-            mlflow.sklearn.log_model(rf, "artifacts")
 
         return rmse
 

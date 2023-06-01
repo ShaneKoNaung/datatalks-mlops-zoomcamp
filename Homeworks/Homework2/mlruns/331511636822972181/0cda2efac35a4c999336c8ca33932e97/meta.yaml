@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/331511636822972181/0cda2efac35a4c999336c8ca33932e97/artifacts
+end_time: 1685606552899
+entry_point_name: ''
+experiment_id: '331511636822972181'
+lifecycle_stage: active
+run_id: 0cda2efac35a4c999336c8ca33932e97
+run_name: casual-sheep-35
+run_uuid: 0cda2efac35a4c999336c8ca33932e97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685606551994
+status: 3
+tags: []
+user_id: shane

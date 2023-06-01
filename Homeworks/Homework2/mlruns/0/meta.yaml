@@ -1,6 +1,6 @@
-artifact_location: file:///home/shane/mlops-zoomcamp/cohorts/2023/02-experiment-tracking/homework/mlruns/0
-creation_time: 1685360585950
+artifact_location: file:///home/shane/datatalks-mlops-zoomcamp/Homeworks/Homework2/mlruns/0
+creation_time: 1685605390472
 experiment_id: '0'
-last_update_time: 1685360585950
+last_update_time: 1685605390472
 lifecycle_stage: active
 name: Default

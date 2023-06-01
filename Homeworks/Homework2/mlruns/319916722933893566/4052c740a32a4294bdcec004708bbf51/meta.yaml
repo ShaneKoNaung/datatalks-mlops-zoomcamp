@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shane/datatalks-mlops-zoomcamp/Homeworks/Homework2/mlruns/319916722933893566/4052c740a32a4294bdcec004708bbf51/artifacts
+end_time: 1685605400803
+entry_point_name: ''
+experiment_id: '319916722933893566'
+lifecycle_stage: active
+run_id: 4052c740a32a4294bdcec004708bbf51
+run_name: trusting-gnat-937
+run_uuid: 4052c740a32a4294bdcec004708bbf51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685605390927
+status: 3
+tags: []
+user_id: shane

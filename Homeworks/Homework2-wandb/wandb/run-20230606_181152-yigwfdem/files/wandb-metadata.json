@@ -1,0 +1,86 @@
+{
+    "os": "Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.31",
+    "python": "3.11.3",
+    "heartbeatAt": "2023-06-06T11:41:54.641972",
+    "startedAt": "2023-06-06T11:41:52.678161",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--wandb_project",
+        "NYC-TAXI",
+        "--wandb_entity",
+        "shanekonaung",
+        "--raw_data_path",
+        "data",
+        "--dest_path",
+        "./output"
+    ],
+    "state": "running",
+    "program": "/home/shane/datatalks-mlops-zoomcamp/Homeworks/Homework2-wandb/preprocess_data.py",
+    "codePath": "Homeworks/Homework2-wandb/preprocess_data.py",
+    "git": {
+        "remote": "https://github.com/ShaneKoNaung/datatalks-mlops-zoomcamp.git",
+        "commit": "bd12691a70b05875782239c36aea3095bde3d10d"
+    },
+    "email": "shanekonaung@gmail.com",
+    "root": "/home/shane/datatalks-mlops-zoomcamp",
+    "host": "DESKTOP-IV8NHPQ",
+    "username": "shane",
+    "executable": "/home/shane/miniconda3/envs/wandb-hw/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1996.2729999999997,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1996.273,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.273,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.273,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.273,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.273,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.273,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.273,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.273,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 250.92389297485352,
+        "used": 18.123130798339844
+    },
+    "memory": {
+        "total": 7.47259521484375
+    }
+}

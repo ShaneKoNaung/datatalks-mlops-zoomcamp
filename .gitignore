@@ -163,3 +163,4 @@ wandb
 .prefectignore
 deployment.yaml
 prefect.yaml
+.prefect/

@@ -1,0 +1,7 @@
+name: test-prefect
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip:
+    - -r requirements.txt

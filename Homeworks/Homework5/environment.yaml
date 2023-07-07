@@ -1,0 +1,20 @@
+name: py11
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - prefect
+  - tqdm
+  - requests
+  - joblib
+  - pyarrow
+  - psycopg
+  - evidently 
+  - pandas
+  - numpy
+  - scikit-learn
+  - jupyter
+  - matplotlib
